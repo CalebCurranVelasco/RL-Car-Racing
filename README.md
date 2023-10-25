@@ -13,3 +13,10 @@ This repository contains a reinforcement learning (RL) project aimed at training
 1. Organized the project by creating a structured directory with a logging system ('Training/Logs') to monitor training progress using TensorBoard.
 2. Saved the trained PPO model for future use and loaded it for evaluation, demonstrating the ability to persist and reuse trained reinforcement learning agents.
 3. Developed a clear understanding of the environment through random exploration during training and applied the learned policy during testing for better control and performance.
+
+## Video of the Car after training
+
+
+
+https://github.com/CalebCurranVelasco/RL-Car-Racing/assets/118134327/353e517f-8ef7-4c80-9e78-a65d9ad81d57
+
